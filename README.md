@@ -40,5 +40,5 @@ Markov Chain? Cellular Automata? Genetic Algorithm? 全忘光了！
 
 Jitter，喔，可以跟Msp无限套娃
 
-### 终极魔改方案
+### 魔改方案
 上虚幻/Unity，上Wwise，不过目前技术力过低，估计这样到毕业了都做不出来orz
