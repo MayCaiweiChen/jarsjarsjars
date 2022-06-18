@@ -39,3 +39,6 @@ Markov Chain? Cellular Automata? Genetic Algorithm? 全忘光了！
 生成好了导进TouchDesigner，可以和音频实现交互，不过似乎套不了娃
 
 Jitter，喔，可以跟Msp无限套娃
+
+### 终极魔改方案
+参考https://www.youtube.com/watch?v=v4IGn0HOM5E&t=25s 不但上虚幻/Unity，还上Wwise，不过目前技术力过低，估计这样到毕业了都做不出来orz
